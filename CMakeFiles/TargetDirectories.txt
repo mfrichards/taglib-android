@@ -1,0 +1,3 @@
+/home/spmfr/work/taglib-1.7/CMakeFiles/docs.dir
+/home/spmfr/work/taglib-1.7/taglib/CMakeFiles/tag.dir
+/home/spmfr/work/taglib-1.7/bindings/c/CMakeFiles/tag_c.dir

@@ -1,0 +1,48 @@
+Determining if the function __RTTI___ exists in the Crun failed with the following output:
+Change Dir: /home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
+/home/spmfr/android/android-ndk-r6b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-gcc   --sysroot=;/home/spmfr/android/android-ndk-r6b/platforms/android-5/arch-arm" -fPIC -DANDROID -Wno-psabi -fsigned-char -mthumb -march=armv7-a -mfloat-abi=softfp -Wno-long-long -ansi -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wall -W -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -fno-common  -DCHECK_FUNCTION_EXISTS=__RTTI___" -isystem /home/spmfr/android/android-ndk-r6b/sources/cxx-stl/gnu-libstdc++/include -isystem /home/spmfr/android/android-ndk-r6b/sources/cxx-stl/gnu-libstdc++/libs/armeabi-v7a/include   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+arm-linux-androideabi-gcc: no input files
+/bin/sh: /home/spmfr/android/android-ndk-r6b/platforms/android-5/arch-arm -fPIC -DANDROID -Wno-psabi -fsigned-char -mthumb -march=armv7-a -mfloat-abi=softfp -Wno-long-long -ansi -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wall -W -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -fno-common  -DCHECK_FUNCTION_EXISTS=__RTTI___: File name too long
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o] Error 2
+make[1]: Leaving directory `/home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Determining if the function __RTTI___ exists in the Crun failed with the following output:
+Change Dir: /home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
+/home/spmfr/android/android-ndk-r6b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-gcc   --sysroot=;/home/spmfr/android/android-ndk-r6b/platforms/android-5/arch-arm" -fPIC -DANDROID -Wno-psabi -fsigned-char -mthumb -Wno-long-long -ansi -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wall -W -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -fno-common  -DCHECK_FUNCTION_EXISTS=__RTTI___" -isystem /home/spmfr/android/android-ndk-r6b/sources/cxx-stl/gnu-libstdc++/include -isystem /home/spmfr/android/android-ndk-r6b/sources/cxx-stl/gnu-libstdc++/libs/armeabi-v7a/include   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+arm-linux-androideabi-gcc: no input files
+/bin/sh: /home/spmfr/android/android-ndk-r6b/platforms/android-5/arch-arm -fPIC -DANDROID -Wno-psabi -fsigned-char -mthumb -Wno-long-long -ansi -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wall -W -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -fno-common  -DCHECK_FUNCTION_EXISTS=__RTTI___: File name too long
+make[1]: Leaving directory `/home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o] Error 2
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Determining if the function __RTTI___ exists in the Crun failed with the following output:
+Change Dir: /home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o
+/home/spmfr/android/android-ndk-r6b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/arm-linux-androideabi-gcc   --sysroot=;/home/spmfr/android/android-ndk-r6b/platforms/android-5/arch-arm" -fPIC -DANDROID -Wno-psabi -fsigned-char -marm -ffast-math -mno-thumb -mno-thumb-interwork -ffunction-sections -Wno-long-long -ansi -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wall -W -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -fno-common  -DCHECK_FUNCTION_EXISTS=__RTTI___" -isystem /home/spmfr/android/android-ndk-r6b/sources/cxx-stl/gnu-libstdc++/include -isystem /home/spmfr/android/android-ndk-r6b/sources/cxx-stl/gnu-libstdc++/libs/armeabi-v7a/include   -o CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+arm-linux-androideabi-gcc: no input files
+/bin/sh: /home/spmfr/android/android-ndk-r6b/platforms/android-5/arch-arm -fPIC -DANDROID -Wno-psabi -fsigned-char -marm -ffast-math -mno-thumb -mno-thumb-interwork -ffunction-sections -Wno-long-long -ansi -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wall -W -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -fno-common  -DCHECK_FUNCTION_EXISTS=__RTTI___: File name too long
+make[1]: Leaving directory `/home/spmfr/work/taglib-1.7/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckFunctionExists.c.o] Error 2
+make: *** [cmTryCompileExec/fast] Error 2
+
+

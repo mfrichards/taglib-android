@@ -1,0 +1,32 @@
+The following modifications have been made to the original TagLib-1.7 source
+code for use in MyTunes Music Manager:
+
+12/2/2011 - tag_c.cpp (original author Scott Wheeler):
+  - Added additional wrapper methods to retrieve data from ID3v2 tags,
+    Ape tags, Mp4 files, ASF files, and Ogg Vorbis files.
+
+12/2/2011 - tag_c.h (original author Scott Wheeler):
+  - Added additional typedef and method declarations to retrieve data
+    from ID3v2 tags, Ape tags, Mp4 files, ASF files, and Ogg Vorbis
+    files.
+
+12/2/2011 - xingheader.cpp (original author Ismael Orenstein):
+  - Modified the parse() method to check for a "LAME" encoder frame in the
+    Xing header, and extract encoder delay values if present.
+  - Added the public method isVbr() which returns a bool indicating whether
+    or not a Xing vbr header is present.
+  - Added the public method startDelay() which returns a uint specifying the
+    number of samples in the encoder start delay if a "LAME" encoder frame
+    was found in the Xing header.
+  - Added the public method endDelay() which returns a uint specifying the
+    number of samples in the encoder end delay if a "LAME" encoder frame
+    was found in the Xing header.
+
+12/2/2011 - xingheader.h (original author Ismael Orenstein):
+  - Added method declarations for the isValid(), startDelay(), and
+    endDelay() methods.
+
+11/27/2011 - mpegproperties.cpp (original author Scott Wheeler):
+  - Modified line 210 of the read() method to read 144 bytes when reading
+    the Xing header.
+
